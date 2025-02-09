@@ -59,12 +59,12 @@ A modern, feature-rich study management application built with React, TypeScript
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/studytime.git
+git clone https://github.com/Shani871/time-management.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd studytime
+cd time-management
 ```
 
 3. Install dependencies:
@@ -133,8 +133,3 @@ The built files will be in the `dist` directory.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Icons provided by [Lucide Icons](https://lucide.dev)
-- UI components styled with [Tailwind CSS](https://tailwindcss.com)
-- Built with [Vite](https://vitejs.dev)
